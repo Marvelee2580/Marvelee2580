@@ -25,9 +25,9 @@ I'm a passionate software developer with a keen interest in Web development. I e
 
 Here are some of the projects I've been working on:
 
-- [Project Name](URL): Brief description of the project.
-- [Project Name](URL): Brief description of the project.
-- [Project Name](URL): Brief description of the project.
+- [Bytes and Blogs ☝️](URL): Still working on it 🧑‍💻.
+- [Clarity](URL): Clarity is a tutorial that aims to help students with their exams and also help them acquire digital skill through clarified classes.
+- [DoMeSub](URL): A platform where you can purchase data.
 
 ## Connect with Me
 
